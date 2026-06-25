@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MeatFlow.Model\MeatFlow.Model.csproj" />
+  <Project Path="MeatFlow.Data\MeatFlow.Data.csproj" />
+  <Project Path="MeatFlow.Service\MeatFlow.Service.csproj" />
+  <Project Path="MeatFlow.Controller\MeatFlow.Controller.csproj" />
+</Solution>
